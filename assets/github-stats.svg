@@ -5,7 +5,7 @@
   viewBox="0 0 1000 340"
   role="img"
   aria-labelledby="title description"
-  data-fingerprint="c54459c4ded1cc74158fbbc4972c19ad3e39d774ff30568759a11bae32a82701">
+  data-fingerprint="27c55491bb2ddafa6f38340075714c53125cb17c131b248e0858919487e8f5a5">
 
   <title id="title">
     preethikaprasadi GitHub statistics
@@ -400,52 +400,52 @@
             <rect
               x="535.00"
               y="98"
-              width="160.88"
+              width="162.61"
               height="7"
               fill="#3178c6"
             />
             
 
             <rect
-              x="695.88"
+              x="697.61"
               y="98"
-              width="111.65"
+              width="109.97"
               height="7"
               fill="#DA5B0B"
             />
             
 
             <rect
-              x="807.53"
+              x="807.58"
               y="98"
-              width="88.60"
+              width="89.21"
               height="7"
               fill="#3572A5"
             />
             
 
             <rect
-              x="896.13"
+              x="896.79"
               y="98"
-              width="22.50"
+              width="22.16"
               height="7"
               fill="#663399"
             />
             
 
             <rect
-              x="918.63"
+              x="918.95"
               y="98"
-              width="18.37"
+              width="18.09"
               height="7"
               fill="#f1e05a"
             />
             
 
             <rect
-              x="937.00"
+              x="937.04"
               y="98"
-              width="2.62"
+              width="2.58"
               height="7"
               fill="#e34c26"
             />
@@ -490,7 +490,7 @@
               y="132"
               text-anchor="end"
               class="legend-value">
-              39.7%
+              40.2%
             </text>
             
 
@@ -513,7 +513,7 @@
               y="132"
               text-anchor="end"
               class="legend-value">
-              27.6%
+              27.2%
             </text>
             
 
@@ -536,7 +536,7 @@
               y="158"
               text-anchor="end"
               class="legend-value">
-              21.9%
+              22.0%
             </text>
             
 
@@ -559,7 +559,7 @@
               y="158"
               text-anchor="end"
               class="legend-value">
-              5.6%
+              5.5%
             </text>
             
 
@@ -841,6 +841,6 @@
     y="327"
     text-anchor="end"
     class="updated">
-    Updated 2026-11-14 18:06 UTC
+    Updated 2026-11-14 22:27 UTC
   </text>
 </svg>
